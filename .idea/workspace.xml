@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eec42d0d-79f8-4e8e-ae70-b5924b44b1a6" name="Default Changelist" comment="" />
+    <list default="true" id="eec42d0d-79f8-4e8e-ae70-b5924b44b1a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585763931943</updated>
-      <workItem from="1585763947493" duration="11961000" />
+      <workItem from="1585763947493" duration="13619000" />
     </task>
     <task id="LOCAL-00001" summary="last commit on vueFadeScroll">
       <created>1585855177059</created>
